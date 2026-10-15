@@ -19,10 +19,13 @@ Key Finding
 The original project reports a correlation of -0.11 between AI dependency and academic performance. This result requires verification against the underlying data and original calculation procedure.
 
 Limitations
+
 The interpretation is limited by the available sample information, self-reported measures, and the completeness of the original statistical outputs.
 
 Academic Context
+
 B.Sc. Statistics mini-project, Department of Statistics, Loyola College, Chennai.
 
 Note
+
 This repository documents an academic research project. Findings should be interpreted in the context of the study design and available evidence.
