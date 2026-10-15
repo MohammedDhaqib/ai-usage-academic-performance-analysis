@@ -2,6 +2,7 @@
 Statistical analysis of AI tool usage and academic performance among students.
 
 Overview
+
 This project investigates the relationship between AI tool usage, AI dependency, and academic performance among college students.
 
 Objectives
@@ -12,6 +13,7 @@ Objectives
 - Recommend responsible and ethical AI usage.
 
 Methodology
+
 The study uses questionnaire-based survey data and statistical techniques, including descriptive statistics, graphical analysis, correlation analysis, and factor analysis where supported by the available data.
 
 Key Finding
